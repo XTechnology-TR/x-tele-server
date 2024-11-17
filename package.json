@@ -35,7 +35,7 @@
 	},
 	"homepage": "https://github.com/peterjoseph/reeve#readme",
 	"dependencies": {
-		"@babel/core": "^7.4.4",
+		"@babel/core": "^7.26.0",
 		"@babel/plugin-proposal-class-properties": "^7.4.4",
 		"@babel/plugin-syntax-dynamic-import": "^7.2.0",
 		"@babel/plugin-transform-runtime": "^7.4.4",
